@@ -2,7 +2,7 @@
 
 # Filename rules
 
-The directory names are prefixed by:
+The directory names are prefixed by
 
 * **source** for the source code examples
 * **tool** for the tool evaluations
