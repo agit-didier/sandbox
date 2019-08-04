@@ -1,4 +1,6 @@
-# This repository is used for the development of source code examples, for the tool evaluations, concept understandings and idea explorations.
+# Description
+
+This repository is used for the development of source code examples, for the tool evaluations, concept understandings and idea explorations.
 
 # Filename rules
 
