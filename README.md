@@ -6,7 +6,7 @@
 4. [Licenses Understanding](#licenses-understanding)
 5. [Requirements when a Clone is performed](#requirements-when-a-Clone-is-performed)
 
-<a name="description"/>
+<a name="description"></a>
 # 1. Description
 
 This repository is used for the development of source code examples, for the tool evaluations, concept understandings and idea explorations.
