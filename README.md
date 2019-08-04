@@ -11,7 +11,7 @@
 
 This repository is used for the development of source code examples, for the tool evaluations, concept understandings and idea explorations.
 
-<a name="filename-rules"/>
+<a name="filename-rules"></a>
 # 2. Filename rules
 
 The directory names are prefixed by
@@ -21,7 +21,7 @@ The directory names are prefixed by
 * **concept** for the concept understandings
 * **idea** for the idea explorations
 
-<a name="todo"/>
+<a name="todo"></a>
 # 3. TODO
 
 1. **understand** how to automate a *ToC* deployment in the Markdown files under GitHub
@@ -35,10 +35,10 @@ The directory names are prefixed by
 9. locally, **merge** the *sandbox-to-export* branch into the *sandbox* repository
 10. locally, **commit** and **push** the changements
 
-<a name="licenses-understanding"/>
+<a name="licenses-understanding"></a>
 # 4. Licenses Understanding
 
-<a name="requirements-when-a-Clone-is-performed"/>
+<a name="requirements-when-a-Clone-is-performed"></a>
 # 5. Requirements when a Clone is performed
 
 1. no *subdirectory* having the **repository name**
