@@ -24,7 +24,7 @@ The directory names are prefixed by
 <a name="todo"></a>
 # 3. TODO
 
-1. **understand** how to automate a *ToC* deployment in the Markdown files under GitHub
+1. ~~**understand** how to automate a *ToC* deployment in the Markdown files under GitHub~~
 2. **understand** how to automate a *References* deployment in the Markdown files under GitHub
 3. **understand** the differences between the *licenses* proposed by GitHub
 4. locally, **merge** the *sandbox* branch into the *master* one
