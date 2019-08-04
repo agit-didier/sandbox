@@ -1,8 +1,16 @@
-# Description
+# Table of Contents
+
+1. [Description](#description)
+2. [Filename Rules](#filename-rules)
+3. [TODO](#todo)
+4. [Licenses Understanding](#licenses-understanding)
+5. [Requirements when a Clone is performed](#requirements-when-a-Clone-is-performed)
+
+# 1. Description
 
 This repository is used for the development of source code examples, for the tool evaluations, concept understandings and idea explorations.
 
-# Filename rules
+# 2. Filename rules
 
 The directory names are prefixed by
 
@@ -11,7 +19,7 @@ The directory names are prefixed by
 * **concept** for the concept understandings
 * **idea** for the idea explorations
 
-# TODO
+# 3. TODO
 
 1. **understand** how to automate a *ToC* deployment in the Markdown files under GitHub
 2. **understand** how to automate a *References* deployment in the Markdown files under GitHub
@@ -24,9 +32,9 @@ The directory names are prefixed by
 9. locally, **merge** the *sandbox-to-export* branch into the *sandbox* repository
 10. locally, **commit** and **push** the changements
 
-# Licenses Understanding
+# 4. Licenses Understanding
 
-# Requirements when a Clone is performed
+# 5. Requirements when a Clone is performed
 
 1. no *subdirectory* having the **repository name**
 2. add the *repository name* inside the **.gitignore** file of the embedding local repository
