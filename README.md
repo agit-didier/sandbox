@@ -10,6 +10,7 @@ The directory names are prefixed by
 * **idea** for the idea explorations
 
 # TODO
+
 1. **understand** how to automate a *ToC* deployment in the Markdown files under GitHub
 2. **understand** how to automate a *References* deployment in the Markdown files under GitHub
 3. **understand** the differences between the *licenses* proposed by GitHub
