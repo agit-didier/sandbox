@@ -25,6 +25,7 @@ The directory names are prefixed by
 # Licenses Understanding
 
 # Requirements when a Clone is performed
+
 1. no *subdirectory* having the **repository name**
 2. add the *repository name* inside the **.gitignore** file of the embedding local repository
 3. have a *makefile rule* to automate (with the proper checks) the **clone** operation
