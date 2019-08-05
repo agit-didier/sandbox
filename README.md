@@ -5,6 +5,7 @@
 3. [TODO](#todo)
 4. [Licenses Understanding](#licenses-understanding)
 5. [Requirements when a Clone is performed](#requirements-when-a-Clone-is-performed)
+6. [References](#references)
 
 <a name="description"></a>
 # 1. Description
@@ -25,7 +26,7 @@ The directory names are prefixed by
 # 3. TODO
 
 1. ~~**understand** how to automate a *ToC* deployment in the Markdown files under GitHub~~
-2. **understand** how to automate a *References* deployment in the Markdown files under GitHub
+2. ~~**understand** how to automate a *References* deployment in the Markdown files under GitHub~~ [[1]](#dummy-1)
 3. **understand** the differences between the *licenses* proposed by GitHub
 4. locally, **merge** the *sandbox* branch into the *master* one
 5. locally, **rename** the sandbox branch (into *sandbox-to-export*)
@@ -45,3 +46,9 @@ The directory names are prefixed by
 2. add the *repository name* inside the **.gitignore** file of the embedding local repository
 3. have a *makefile rule* to automate (with the proper checks) the **clone** operation
 4. hale a *makefile rule* to automate (with the proper checks) the **push** operation
+
+<a name="references"></a>
+# 6. References
+
+<a name="dummy-1"></a>[1] John Doe. 2099. *The book without title*. Dummy Publishing, not here. (notes:
+This is a joke!)
