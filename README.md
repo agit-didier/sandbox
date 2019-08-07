@@ -30,6 +30,7 @@ The directory names are prefixed by
 2. ~~**understand** how to automate a *References* deployment in the Markdown files under GitHub~~ [[1]](#dummy-1)
     * not possible to automate directly
 3. **understand** the differences between the *licenses* proposed by GitHub
+    * understand why we wish to put code under an open-source license
 4. locally, **merge** the *sandbox* branch into the *master* one
 5. locally, **rename** the sandbox branch (into *sandbox-to-export*)
 6. remotely, make an **archive** of the sandbox repository
