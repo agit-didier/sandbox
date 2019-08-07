@@ -32,7 +32,7 @@ The directory names are prefixed by
 3. **understand** the differences between the *licenses* proposed by GitHub
     * understand why we wish to put code under an open-source license
     * understand what are possibilities and the limitations imposed to the users
-    * see [https://help.github.com/en/articles/licensing-a-repository#disclaimer]
+    * see https://help.github.com/en/articles/licensing-a-repository#disclaimer
 4. locally, **merge** the *sandbox* branch into the *master* one
 5. locally, **rename** the sandbox branch (into *sandbox-to-export*)
 6. remotely, make an **archive** of the sandbox repository
