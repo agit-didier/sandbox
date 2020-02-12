@@ -1,11 +1,11 @@
 # Table of Contents
 
-1. [Description](#description)
-2. [Filename Rules](#filename-rules)
-3. [TODO](#todo)
-4. [Licenses Understanding](#licenses-understanding)
-5. [Requirements when a Clone is performed](#requirements-when-a-Clone-is-performed)
-6. [References](#references)
+ 1. [Description](#description)
+ 2. [Filename Rules](#filename-rules)
+ 3. [TODO](#todo)
+ 4. [Licenses Understanding](#licenses-understanding)
+ 5. [Requirements when a Clone is performed](#requirements-when-a-Clone-is-performed)
+ 6. [References](#references)
 
 <a name="description"></a>
 # 1. Description
